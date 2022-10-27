@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Recapitulcao 1 exec 1/1.0.0": {
+        "runtime": {
+          "Recapitulcao 1 exec 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recapitulcao 1 exec 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
